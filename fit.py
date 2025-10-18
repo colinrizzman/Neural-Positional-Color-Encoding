@@ -1,4 +1,4 @@
-# https://github.com/colinrizzman
+# github.com/colinrizzman
 # pip install tensorflow numpy pandas trimesh "pyglet<2"
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
