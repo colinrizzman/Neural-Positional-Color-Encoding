@@ -7,3 +7,4 @@ pip install tensorflow numpy pandas trimesh "pyglet<2"
 python3 fit.py
 ```
 ![Comparison of ground truth vs neural reconstruction](result.png)
+_The reconstruction has granular detail loss in the eyeris._
